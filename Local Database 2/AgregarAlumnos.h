@@ -176,6 +176,8 @@ namespace Local_Database_2 {
 			this->label8->Location = System::Drawing::Point(10, 220);
 			this->label8->Size = System::Drawing::Size(87, 13);
 
+			
+
 			// 
 			// MyForm2
 			//
